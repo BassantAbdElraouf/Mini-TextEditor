@@ -1,0 +1,8 @@
+﻿  MiniText.cpp
+D:\Personal\MyProjects\Text_Editor\Text_Editor\MiniText.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+D:\Personal\MyProjects\Text_Editor\Text_Editor\MiniText.cpp(189,21): warning C4018: '<': signed/unsigned mismatch
+D:\Personal\MyProjects\Text_Editor\Text_Editor\MiniText.cpp(223,20): warning C4018: '<': signed/unsigned mismatch
+D:\Personal\MyProjects\Text_Editor\Text_Editor\MiniText.cpp(231,21): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  Text_Editor.vcxproj -> D:\Personal\MyProjects\Text_Editor\Debug\Text_Editor.exe
